@@ -16,10 +16,10 @@ db.book.find({},{title:1,Rating:1});
 //retrives the book's data from DB  which has rating lesser than 9
 db.book.find({Rating:{$lt:9}},{title:1,Rating:1}).pretty();
 
-//retrives the book data based on genre(Mystry) or rating(>=8)
+//retrives the book data based on genre(Mystry) or rating(<8)
 db.book.find({$or: [{genre:"Mystry"},{Rating:{$lt:8}}]}).pretty();
 
-//retrives the book data based on genre(Mystry) and rating(>=8)
+//retrives the book data based on genre(Mystry) and rating(<8)
 db.book.find({$and: [{genre:"fantasy"},{Rating:{$lt:8}}]}).pretty();
   
 
