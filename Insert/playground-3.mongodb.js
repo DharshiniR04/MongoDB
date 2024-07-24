@@ -9,6 +9,8 @@ show ('collections')
 
 //To insert a single document of data
 db.price.insert({title:"Relam of Dreams",price:500});
+db.price.insertOne({title:"Dangerous women",price:500,genre:["Fantasy","Magic","Thriller"]})
+
 
 //To insert a multiple documents in a collection
 db.price.insertMany([{title:"Danger",price:500,genre:["Fantasy","Magic"]},{title:"Wonderland",price:500,genre:["Fantasy","Magic","sci-fi"]}])
