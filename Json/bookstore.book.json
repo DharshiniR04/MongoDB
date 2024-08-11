@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "669d4e54eb759d8895643978"
+  },
+  "id": 2,
+  "title": "Realm of Shadows",
+  "Rating": 10,
+  "Reviews": [
+    {
+      "person": "Sam",
+      "body": "An engaging read from start to finish."
+    },
+    {
+      "person": "Lee",
+      "body": "A well-crafted fantasy world."
+    }
+  ],
+  "genre": [
+    "adventure",
+    "Thriller",
+    "Thriller",
+    "Thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669d4e54eb759d889564397a"
+  },
+  "id": 4,
+  "title": "Mystic Waters",
+  "Rating": 7,
+  "Reviews": [
+    {
+      "person": "Amy",
+      "body": "A unique blend of fantasy and mystery."
+    },
+    {
+      "person": "John",
+      "body": "A bit slow in the middle, but great ending."
+    }
+  ],
+  "genre": [
+    "fantasy",
+    "mystery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669d4e54eb759d889564397b"
+  },
+  "id": 5,
+  "title": "Starbound Quest",
+  "Rating": 8,
+  "Reviews": [
+    {
+      "person": "Kate",
+      "body": "A thrilling space adventure."
+    },
+    {
+      "person": "Max",
+      "body": "Fascinating plot twists."
+    }
+  ],
+  "genre": [
+    "scifi",
+    "thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669d4e54eb759d889564397d"
+  },
+  "id": 7,
+  "title": "Time Warp",
+  "Rating": 7,
+  "Reviews": [
+    {
+      "person": "Sara",
+      "body": "A mind-bending science fiction tale."
+    },
+    {
+      "person": "Paul",
+      "body": "Interesting concept, but a bit confusing."
+    }
+  ],
+  "genre": [
+    "scifi",
+    "mystery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669d4e54eb759d889564397e"
+  },
+  "id": 8,
+  "title": "Dragon's Keep",
+  "Rating": 8,
+  "Reviews": [
+    {
+      "person": "Clara",
+      "body": "A fantastic dragon-filled adventure."
+    },
+    {
+      "person": "Jack",
+      "body": "Loved the world-building."
+    }
+  ],
+  "genre": [
+    "fantasy",
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669d4e54eb759d8895643980"
+  },
+  "id": 10,
+  "title": "Wizards' Duel",
+  "Rating": 8,
+  "Reviews": [
+    {
+      "person": "Lily",
+      "body": "A spellbinding tale of magic."
+    },
+    {
+      "person": "Mark",
+      "body": "Exciting and action-packed."
+    }
+  ],
+  "genre": [
+    "fantasy",
+    "action",
+    "Magic",
+    "Thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669df591b41406628d4f1f9f"
+  },
+  "id": 12,
+  "title": "Realm of Shadows",
+  "Rating": 10,
+  "Reviews": [
+    {
+      "person": "Priya",
+      "body": "A thrilling adventure"
+    },
+    {
+      "person": "Arjun",
+      "body": "Couldn't put it down"
+    }
+  ],
+  "genre": [
+    "Thriller",
+    "Thriller",
+    "Thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669df591b41406628d4f1fa0"
+  },
+  "id": 13,
+  "title": "Mystic Realm",
+  "Rating": 9.1,
+  "Reviews": [
+    {
+      "person": "Kavita",
+      "body": "A magical journey"
+    },
+    {
+      "person": "Rakesh",
+      "body": "Wonderfully imaginative"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "669df591b41406628d4f1fa2"
+  },
+  "id": 15,
+  "title": "The Hidden Realm",
+  "Rating": 18.7,
+  "Reviews": [
+    {
+      "person": "Aditi",
+      "body": "Captivating and mysterious"
+    },
+    {
+      "person": "Sanjay",
+      "body": "A fantastic read"
+    }
+  ]
+}]

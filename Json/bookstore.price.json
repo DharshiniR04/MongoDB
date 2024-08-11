@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66a1044a8dd87806851c9db8"
+  },
+  "title": "Danger",
+  "price": 500,
+  "genre": [
+    "Fantasy",
+    "Magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a1049811b7b0045e1e9c79"
+  },
+  "title": "Relam of Dreams",
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66a1049811b7b0045e1e9c7b"
+  },
+  "title": "Wonderland",
+  "price": 500,
+  "genre": [
+    "Fantasy",
+    "Magic",
+    "sci-fi"
+  ]
+}]
