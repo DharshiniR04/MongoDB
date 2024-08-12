@@ -24,7 +24,7 @@ db.book.updateMany({title:"Realm of Shadows"},{$set:{Rating:10}});
 //Increment the id:15's Rating  with 5
 db.book.updateOne({id:15},{$inc:{Rating:5}});
 
-//Increment the id:15's Rating  with 5
+//Decrement the id:15's Rating  with 5
 db.book.updateOne({id:15},{$inc:{Rating:-5}});
 
 // remove "fantasy" genre for the book named "Realm of Shadows"
